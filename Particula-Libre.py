@@ -1,7 +1,6 @@
 ############################################################
-#Fisica de semiconductores
-#jeison Ivan Mora Roa 20131005056
-#Gustavo Rivas Gutierrez 20132005036
+#Particula Libre
+#Jeison Ivan Mora Roa 
 ###############################################################
 import numpy as np
 import pylab
