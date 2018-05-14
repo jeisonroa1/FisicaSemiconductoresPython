@@ -1,7 +1,6 @@
 ###################################################################
-#Fisica de Semiconductores - Universidad Distrital Francisco Jose de Caldas
-#Jeison Ivan Roa Mora - 20131005056
-#Gustavo Rivas Gutierrez - 20132005036 
+#Barrera
+#Jeison Ivan Roa Mora
 
 ###################################################################
 #Se importan librerias
