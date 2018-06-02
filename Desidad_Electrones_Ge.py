@@ -1,7 +1,6 @@
 ## Densidad de electrones Ge
 ## Jeison Ivan Roa M.
 
-
 import numpy             as np
 import matplotlib.pyplot as plt
 import scipy.constants   as sc
