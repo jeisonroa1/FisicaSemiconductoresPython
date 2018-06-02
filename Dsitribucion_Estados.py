@@ -1,6 +1,5 @@
-## Distribución de estados
+## DistribuciÃ³n de estados
 ## Jeison Ivan Roa M.
-
 import numpy 	         as np
 import scipy.constants   as sc
 import matplotlib.pyplot as plt
